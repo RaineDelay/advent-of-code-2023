@@ -1,4 +1,4 @@
-with open("test_input.txt") as f:
+with open("input") as f:
     lines = f.readlines()
     total = 0
     digits = []
